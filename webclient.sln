@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webclient", "webclient\webclient.csproj", "{BC2CB12F-A1CD-4438-B772-6C708C33FD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2CB12F-A1CD-4438-B772-6C708C33FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2CB12F-A1CD-4438-B772-6C708C33FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2CB12F-A1CD-4438-B772-6C708C33FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2CB12F-A1CD-4438-B772-6C708C33FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757D9D70-DD18-40EA-A71F-E1D7E202F4F6}
+	EndGlobalSection
+EndGlobal

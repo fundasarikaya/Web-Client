@@ -1,0 +1,20 @@
+c:\users\funda_000\source\repos\webclient\webclient\bin\Debug\webclient.exe.config
+c:\users\funda_000\source\repos\webclient\webclient\bin\Debug\webclient.exe
+c:\users\funda_000\source\repos\webclient\webclient\bin\Debug\webclient.pdb
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.csprojResolveAssemblyReference.cache
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.Form1.resources
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.Properties.Resources.resources
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.csproj.GenerateResource.cache
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.csproj.CoreCompileInputs.cache
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.exe
+c:\users\funda_000\source\repos\webclient\webclient\obj\Debug\webclient.pdb
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\bin\Debug\webclient.exe.config
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\bin\Debug\webclient.exe
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\bin\Debug\webclient.pdb
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.csprojAssemblyReference.cache
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.Form1.resources
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.Properties.Resources.resources
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.csproj.GenerateResource.cache
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.csproj.CoreCompileInputs.cache
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.exe
+C:\Users\Funda\Desktop\visual studio projects\webclient\webclient\obj\Debug\webclient.pdb
